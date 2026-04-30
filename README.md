@@ -60,14 +60,6 @@
 
 <img
     align="left"
-    alt="Next.js"
-    title="Next.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://imgs.search.brave.com/RPmE0Gh3DsNef-_RJPhtVz7jLO4xUgskFJYiTiLr-n0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraXRpZGUu/bmV0L2l0YWxpYW5i/cmFpbnJvdHdpa2kv/dGh1bWIvOS85MC82/JzcucG5nLzMwMHB4/LTYnNy5wbmc)"
-/>
-<img
-    align="left"
     alt="Spring Boot"
     title="Spring Boot"
     width="30px"
