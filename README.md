@@ -4,9 +4,10 @@
 
 # João Gabriel Perim
 
-**'Desenvolvedor e Designer'**
+**`Desenvolvedor & Designer`**
+
 <div style= display = "center"
-  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
+  <a href="https://www.instagram.com/jgperim" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
@@ -18,7 +19,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
+  <a href="https://www.youtube.com/jgperim" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
@@ -77,8 +78,3 @@
 
 <br><br>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://github.com/SEU_USERNAME/SEU_USERNAME/blob/output/github-contribution-grid-snake.svg">
-</picture>
