@@ -45,7 +45,7 @@
     title="Photoshop"
     width="30px"
     style="padding-right: 10px;"
-    src="https://imgs.search.brave.com/W-05ky_Dkwpmvk4g3lwsR2dsdvQHhXhYnfdg73zY3qY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9hZG9iZS1w/cmVtaWVyZS1wcm8t/aWNvbi5wbmc](https://pt.wikipedia.org/wiki/Adobe_Photoshop"
+    src="https://imgs.search.brave.com/WuEXfD-bgZvXV5hgmxjp7uVZNKLS4_sNfDm3nrxqisI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9hL2FmL0Fk/b2JlX1Bob3Rvc2hv/cF9DQ19pY29uLnN2/Zy8yNTBweC1BZG9i/ZV9QaG90b3Nob3Bf/Q0NfaWNvbi5zdmcu/cG5n"
     />
     <img
      align="left"
