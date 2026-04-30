@@ -5,17 +5,15 @@
 # João Gabriel Perim
 **`Desenvolvedor jr e Designer`**
 
-<div>
-  <a href="https://www.instagram.com/jgperim" target="_blank">
+<div align="right">
+  <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-  <a href="https://www.youtube.com/jgperim" target="_blank">
+  <a href="https://www.youtube.com/@SEU_CANAL" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
 </div>
-
-<br>
 
 ### Linguagens e Tecnologias
 
