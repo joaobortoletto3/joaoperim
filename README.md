@@ -24,7 +24,7 @@
   </a>
 </div>
 
-### Linguagens e Tecnologias
+**`Minhas Habilidades`**
 
 <img 
     align="left" 
