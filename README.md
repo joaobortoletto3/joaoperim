@@ -3,7 +3,7 @@
 </a>
 
 # João Gabriel Perim
-**`                   Desenvolvedor jr e Designer`**
+                                               **`Desenvolvedor jr e Designer`**
 
 <div align="center">
   <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
