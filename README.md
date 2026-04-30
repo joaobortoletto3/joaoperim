@@ -2,11 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=welcome+to+my+profile+;)" alt="Typing SVG" />
 </a>
 
-# João Gabriel Perim
-
-**`Desenvolvedor jr e Designer`**
-
-<div style= display = "flex", justifyContent = "center">
+# João Gabriel Perim - Designer & Programador
+<div style= display = "center"
   <a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
