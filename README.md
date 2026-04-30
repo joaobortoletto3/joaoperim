@@ -30,15 +30,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://imgs.search.brave.com/c1rRcE2xHwZtGzHwoPURPsLeJZyEBGFBcrQDPey-R3A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c3ZncmVwby5jb20v/c2hvdy8zMDMyNTEv/bXlzcWwtbG9nby5z/dmc"
-    />
 <img
     align="left"
     alt="Photoshop"
